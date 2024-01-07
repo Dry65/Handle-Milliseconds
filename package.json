@@ -1,6 +1,6 @@
 {
   "name": "handle-miliseconds",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Handlelea milissegundos para horas, minutos, ou segundos",
   "main": "index.js",
   "scripts": {
